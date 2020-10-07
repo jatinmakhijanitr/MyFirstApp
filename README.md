@@ -1,5 +1,6 @@
-# MyFirstApp
- Introduction To Android Programming Assignment 1
+**Introduction To Android Programming Assignment 1**
+
+--------------------------------------------------------------------
 
 Jatin Makhijani
 PRN: 18030121040
